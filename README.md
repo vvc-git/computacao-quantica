@@ -8,7 +8,7 @@ A aula expositiva abordou conceitos fundamentais como superposição, entrelaça
 
 #### Trabalho Final
 
-No trabalho final, os alunos simularam o impacto do algoritmo de Shor na tecnologia blockchain usando (Ket)[https://quantumket.org/] e Python. O algoritmo de Shor é conhecido por sua capacidade de fatorar grandes números inteiros, o que ameaça a segurança de sistemas criptográficos como os usados em blockchain.
+No trabalho final, os alunos simularam o impacto do algoritmo de Shor na tecnologia blockchain usando [Ket](https://quantumket.org/) e Python. O algoritmo de Shor é conhecido por sua capacidade de fatorar grandes números inteiros, o que ameaça a segurança de sistemas criptográficos como os usados em blockchain.
 
 ### Quantum Computing
 
@@ -20,7 +20,7 @@ The lecture covered fundamental concepts such as superposition, entanglement, an
 
 #### Final Project
 
-In the final project, students simulated the impact of Shor's algorithm on blockchain technology using (Ket)[https://quantumket.org/] and Python. Shor's algorithm is known for its ability to efficiently factor large integers, which threatens the security of cryptographic systems like those used in blockchain.
+In the final project, students simulated the impact of Shor's algorithm on blockchain technology using [Ket](https://quantumket.org/) and Python. Shor's algorithm is known for its ability to efficiently factor large integers, which threatens the security of cryptographic systems like those used in blockchain.
 
 ![exemplo-projeto-final-1](https://github.com/vvc-git/UFSC/assets/78426009/19cd3aaa-8be5-4454-a06f-92342c760a7c)
 ![exemplo-projeto-final-2](https://github.com/vvc-git/UFSC/assets/78426009/6989a99b-f4ee-4f64-8862-d377a6b13e2d)
